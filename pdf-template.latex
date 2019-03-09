@@ -1,4 +1,4 @@
-\documentclass[12pt, a4paper]{book}
+\documentclass[10pt, a4paper]{book}
 \usepackage{microtype}
 \usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
 \usepackage{natbib}
@@ -7,6 +7,7 @@
 \usepackage{graphicx}
 \usepackage[T1]{fontenc}
 \usepackage{tgschola}
+\usepackage[danish]{babel}
 \usepackage[utf8]{inputenc}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
