@@ -35,5 +35,5 @@ sejlskibssøfarten.  Den var ganske vist risikabel, men gav også mange
 mennesker brød på bordet hver dag. Et af disse områder lå i Det sydfynske
 Øhav.
 
+[^losse]: Losse er, når varer eller gods tages fra borde på et skib.
 [^laste]: Laste er, når avrer eller gods tages om bord på et skib.
-[^losse]: Losse er, når avrer eller gods tages fra borde på et skib.
