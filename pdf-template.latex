@@ -1,4 +1,4 @@
-\documentclass[12pt, a4paper]{book}
+\documentclass[10pt, a4paper]{book}
 \usepackage{microtype}
 \usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
 \usepackage{natbib}
