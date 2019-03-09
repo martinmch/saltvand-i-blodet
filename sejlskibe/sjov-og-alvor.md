@@ -1,0 +1,94 @@
+”På frivagterne37 om bord i søen da sov vi jo den meste tid. Somme tider spillede vi kort. Noget skulle tiden jo gå med.”
+Fritid til søs var der ikke meget af i sejlskibene. I gennemsnit havde man 12 timers arbejde og 12 timers fri i døgnet.
+Med et almindeligt søvnbehov på 7-8 timer var der kun 4-5 timer i døgnet til at spise, klæde sig på, drikke te eller kaffe,
+personlig hygiejne samt toiletbesøg. For det meste blev fritiden sovet væk – der var ikke tid og kræfter til andet.
+”Frivagterne? Puh-ha. Der røg vi lige på hovedet i køjen og så sov vi lige som en sten.”
+Søfolkene var på mange områder afskåret fra omverdenen. Der eksisterede ingen form for radio, ingen
+nyhedsinformation, ingen underholdning – ud over hvad de selv kunne finde på. Når skibet var i søen, betød det mindre.
+For det meste nåede man kun lige at stikke hovederne sammen ganske kort, inden der skulle soves. Og tit var der kun
+33
+
+Søsyge opstår som følge af ubalance i balancesansen. Kendetegn er kvalme, depressiv tilstand, opkast og
+mavesmerter.
+34
+Køjer er senge om bord på et skib.
+35
+Kistebænke er kister, man kunne sidde på.
+36
+Mønstre er at gå om bord og få hyre på et skib; det er altså begyndelsen på jobbe
+37
+Frivagter er fritid om bord.
+
+10
+
+tid til at læse eller genlæse breve hjemmefra. Egentlig fritid om bord kunne man stort set kun opleve på de store
+fuldriggede sejlskibe, der med passat-vindene i ryggen krydsede de store oceaner.
+”Som regel der i de danske skonnerter når de havde frivagt, og de havde været oppe og havde puklet i den tid, så var de
+sgu gerne så udmattede, så de sov altså fra det hele. Så var det en anden ting i de store sejlskibe i passaten38, hvor det
+var så fint vejr, der var mange der brugte deres frivagt til at lave skibsmodeller – helmodeller eller halvmodeller og
+andre sådan forskellige ting. Ligesådan flaskeskibe blev der lavet. Jeg kan huske flere gange jeg var på Charlie Brown,
+en meget kendt beværtning i London, hvor alle verdens søfolk kom når de havde mønstret af, og der var alting deroppe
+– der var krokodiller og assagaier og alt mellem himmel og jord og skibsmodeller, og der var det så tit, når søfolkene
+ikke havde mere, så tog de sgu deres skibsmodel under armen og gik op og sagde, hvad kan jeg få for den? Jah, du kan
+få ti shilling39, og så kan du indløse den. Og så fik de ti shilling og drak dem op, og den blev aldrig indløst, så de fik jo
+nogle souvenirs – folks arbejde der.”
+”I skonnerterne var der ikke noget fritid. Men i de store skibe. Jeg kan huske engang vi lavede sådan en kludebold.
+Dagen før havde der været åbent i slopkisten40, og så var der en af mine kammerater, en matros der havde købt et par
+sko, og dem havde han på dagen efter, da vi spillede fodbold. Vi løb rundt på stordækket og det havde jo ikke meget
+med fodbold at gøre. Det var nærmest sådan tjatteri. Og så sparkede han kraftigt, så denne her sko røg af og op i
+rigningen og udenbords41 regnede han med. Der røg din sko udenbords, var der nogen der råbte. Ad helvede til, råbte
+han, så blev han så gal, så tog han den anden af og smed ud. Men så var der en der sagde – jamen her sidder jo din sko
+– den sad fast i rigningen. Så blev han endnu mere tosset.”
+Det hændte, at der blev spillet musik og sunget, men
+som regel ventede man til skibet kom i havn. Det var
+i havnene, sømændene kunne slå sig løs, mens skibet
+ventede fragter eller skulle repareres. Når skibet
+nærmede sig en havn efter mange dage til søs,
+begyndte landgangsfeberen. Snakken tog til om alle
+de ting, man skulle nå, inden sejladsen blev
+genoptaget. Nogle brugte straks opholdet i havnen til
+at få et velkomment kosttilskud.
+”Når vi kom til en dansk havn, så røg vi op og købte
+en hel lagkage. Den kostede 2 kr. – en
+flødeskumslagkage. Så åd vi den. I England købte vi
+plumbudding, og i Spanien købte vi engang nogle
+fine kager, og der var noget i, og det var sgu klipfisk,
+så vi åd dem altså ikke. Vi havde lige losset klipfisk
+og så få en kage med klipfisk!”
+Sømændene var afskåret fra et almindeligt seksualliv. I uger og måneder lå de ude til søs uden at have kontakt med
+kvinder. De unge var afskåret fra at søge den naturlige kontakt til jævnaldrene unge piger, og de voksne mænd måtte
+undvære deres kæresters kærlighed. I det mandssamfund, som skibene udgjorde, blev kvinder for nogle en besættelse,
+og besøg i havn kunne ikke råde bod på den manglende kontakt med kvinder. Disse havnebesøg blev for det meste et
+spørgsmål om hurtigt at tilfredsstille nogle seksuelle drifter – det vil sige, at man købte sig til et samleje med en totalt
+fremmed og uvedkommende pige, for hvem det kun gjaldt om at få det overstået. Allerede mens skibet var på vej ind,
+havde man om bord besluttet sig for, om man skulle på bordel eller horekasse, som man også kaldte det. En ung
+sømand, som tøvede med at slutte sig til selskabet, kunne blive til grin blandt de andre.
+”Jah, når søfolkene de gik i land – hvis der var bordeller, så gik de ind på dem og ellers på havnerestaurationer, hvor
+de kunne træffe piger. Det var gerne de ældre som tog føringen. Vil I med derhen? Skal vi det i aften? Og sådan. Nogle
+ville jo med og andre ville ikke. Der var ingen tvang, men sådan en ung mand som ikke ville med på bordel kunne de
+godt lide at drille lidt – åh – sådan en barnerøv osv. Så hændte det jo, at han til sidst tænkte…det skal de skisme ikke
+tro…og gik med.”
+38
+
+Passatvinde er jævne vinde, der blæser hen over verdenshavene.
+Shilling er en engelsk møntenhed.
+40
+Slopkisten er kaptajnens lille private butik om bord.
+41
+Udenbords vil sige vandet, der omgiver skibet.
+39
+
+11
+
+Frygten for kønssygdomme afholdt dog nogle fra at gå med.
+”Der var en fisker med oppe fra Hanstholm42. Vi kom til Malaga43 og skulle losse44 fisken, og så var han gået op til
+nogle piger, og så gik han og ragede sig en gonoré til, og jeg så hvordan han skabte sig og jamrede sig, og han blev
+lagt i land på et hospital og kom slet ikke med skibet, vi måtte sejle fra ham. Da tænkte jeg ved mig selv: For det første
+kom jeg fra et godt barndomshjem, og for det andet, tænkte jeg, du skal aldrig komme til sådan en pige, for der er
+alligevel risiko, når jeg havde set ham, hvordan han led og så blev sejlet agterud dernede i Malaga, så tænkte jeg ved
+mig selv: nej, det skal du holde dig fra!!”
+Nogle prioriterede i stedet det at komme ud at se noget nyt. Det kunne være tyrefægtning i Spanien, en tur i teatret i
+London eller måske noget helt tredje.
+”Jeg kan huske, da vi lå i Norge, da var vi ude at se på Holmenkollen – nej, det med værtshuse, det har jeg ikke haft lyst
+til sådan.”
+

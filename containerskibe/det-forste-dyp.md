@@ -1,0 +1,94 @@
+
+# Det første dyp
+
+I dag kommer de fleste unge ud at sejle med containerskib for første gang som et led i deres søfartsuddannelse. Det er et
+stort skridt at tage at forlade de faste hjemlige rammer for i stedet at skulle sejle ud på de store verdenshave. Man skal
+sige farvel til familie og venner for et stykke tid og i stedet bo på et stort skib med sine helt egne regler og egen livsstil.
+Når man tager ud at sejle, er der mulighed for at
+komme ud i verden og opleve andre ting, end man
+måske ellers ville komme til, og det er mange
+tiltrukket af. Det fortæller Søren Hoppe om her:
+”Min bedste kammerat under barndomsperioden, han
+hedder for øvrigt også Søren, han havde en
+storebror, som sejlede, og han fortalte sådan nogle
+spændende historier fra Østen og Grønland, så jeg
+fik lyst til at prøve det og tænkte, at det kunne måske
+være meget godt at prøve. Der var ikke rigtig andet,
+der trak. Der var jo oceaner af muligheder, og det
+var bare at vælge, og det var så, hvad jeg have mest
+lyst til på det tidspunkt.”.
+Før man kan komme ud at sejle, skal man gennemgå
+en lægeundersøgelse150 og evt. have en søfartsbog151.
+Når lægeundersøgelsen er bestået, er man klar til at
+sige farvel til landlivet. Søfartsbogen er et dokument,
+der af nogle lande anvendes som legitimation ved ind- og udrejse for søfolk i stedet for visum, det vil sige et dokument,
+der giver tilladelse til at rejse ind i et land. Søfartsstyrelsen udsteder kun søfartsbøger til danske statsborgere over 16 år.
+Alle danske søfolk, der påmønstrer en stilling, som er omfattet af et skibs sikkerhedsbesætning, skal have en søfartsbog.
+Søfolk under uddannelse er dog ikke en del af et skibs sikkerhedsbesætning – det vil sige, hvor mange
+149
+
+Søfartsstyrelsen er en styrelse under Økonomi- og Erhvervsministeriet, som varetager sager vedrørende
+søfartserhvervet, bl.a. sikkerhed, arbejdsmiljø og erhvervspolitik.
+150
+Alle som arbejder om bord i et dansk handelsskib skal regelmæssigt gennemgå en lægeundersøgelse. Søfolk under
+18 år undersøges årligt, mens søfolk over 18 år normalt skal undersøges hvert andet år. I Danmark skal
+lægeundersøgelsens foretages af en søfartslæge, som Søfartsstyrelsen udpeger. Ingen kan komme ud at sejle uden et
+gyldigt sundhedsbevis. Det er det officielle bevis for, at man er sundhedsmæssigt egnet.
+151
+
+44
+
+besætningsmedlemmer der minimum skal være om bord på skibet. Sikkerhedsbesætningen skal være oplyst for at sikre,
+at der er mand nok om bord til at sejle skibet forsvarligt, og for at sikre sikkerheden for menneskeliv på havet. Det er
+Søfartsstyrelsen, som laver den såkaldte besætningsfastsættelse. En besætningsfastsættelse er et dokument, som
+indeholder oplysninger om det krævede antal besætningsmedlemmer i et skibs drifts- og/eller sikkerhedsbesætning og
+de enkelte besætningsmedlemmers kvalifikationer.
+Det foregår for det meste ved, at man tager et fly til
+en lufthavn i nærheden af, hvor det skib befinder sig,
+som man skal påmønstre. Her hentes man så af en
+agent152, der fører en til skibet. Her fortæller Mads
+om sin oplevelse:
+”Hej alle sammen! Her er så min første mail fra Ivar
+Lauritzen. Som de fleste af jer nok ved, kom jeg først
+ombord i mandags, selvom jeg egentlig skulle have
+været af sted sidste fredag. Men af uvisse årsager
+kom jeg altså først af sted lidt senere. Så mandag
+middag, 8 timer efter afgangen fra Svendborg, stod
+jeg så i Amsterdam lufthavn og ventede på rederiets
+agent, der skulle køre mig til Rotterdam havn, hvor
+skibet lå. Imidlertidig var der ikke noget med et skilt
+med mit navn eller noget i den dur i syne, og jeg
+regnede med, at han bare var lidt forsinket. Men da
+han stadig ikke var kommet efter 20 minutter,
+begyndte jeg at blive en smule nervøs.
+For selv om jeg da ikke er totalt hjælpeløs, er det jo aldrig fedt at være strandet i en ukendt lufthavn uden at vide,
+hvordan man kommer hverken fra eller til. Men heldigvis nåede jeg lige at opfange navnet Ivar Lauritzen i en samtale
+mellem to mænd, der kom gående forbi. Det viste sig så at være agenten og en anden dansker, der skulle ud på det
+samme skib som mig. Agenten havde bare fået at vide, at han kun skulle hente én person, nemlig ham den anden. Nå!
+Men efter lidt snakken frem og tilbage kom jeg da med. Så det var jo heldigt nok, må man sige! Ellers havde jeg nok
+stadig bare stået i lufthavnen og ventet.
+Da jeg kom til skibet, havde jeg været ombord i ca. 3 minutter og 17 et halvt sekund, da jeg blev sat i arbejde. Der skulle
+tages stores153 ombord, så jeg skulle bare i gang med at hejse kasser fra kajen og op på skibet og sætte det ned i
+maskinen eller rundt omkring på dækket. Så mine første 4-5 timer ombord fik jeg ikke meget tid til at pakke ud og kigge
+mig lidt omkring. Men det gjorde mig ikke det store, jeg skal jo være her i 3-4 måneder, så jeg får masser af tid til at
+kigge på skibet.
+Til dem, der er interesseret, så er skibet 165 meter langt, har plads til ca.
+1500 paller bananer, 900 brugte biler eller 216 containere. Den er bygget i
+1990, og blev dengang betragtet som prototypen på det nye årtusinds skib.
+Så selvom hun er en dame på 17 år, er alting her ombord stadig forholdsvis
+moderne. Men hun er stadig gammel nok til at være så slidt, at der skal
+bruges en hel masse små tricks for at få ting til at fungere ordentligt, hvilket
+i mine øjne bare bidrager til charmen ved at være ombord. Så alt i alt
+befinder jeg mig allerede rigtig godt her ombord, og besætningen er nogle
+folk, jeg kan rigtig godt med.”
+
+152
+
+Agent eller shippingmedarbejder, er en person, som planlægger transporten af gods og varer til søs. For en agent
+gælder det om at udnytte skibenes kapacitet bedst muligt. Agenten sørger for papirarbejdet i forbindelse med
+transporten og tager sig af de praktiske forhold i forbindelse med havneanløb, lastning og losning.
+153
+Stores er et udtryk for varer.
+
+45
+

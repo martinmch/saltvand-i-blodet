@@ -1,0 +1,53 @@
+# Fritid eller levetid?
+
+Tidligere forholdt det sig sådan, at søfolk var et særligt folkefærd, som adskilte sig fra landkrabberne. Søfolkene var
+kendt for at komme ud at opleve verden og for at hygge sig med sprut og damer, når de kom i land.
+I dag minder livet om bord mere og mere om livet i
+land, og det er forbudt at drikke alkohol på de fleste
+skibe – man må heller ikke komme beruset tilbage fra
+et ophold i land. Det er også blevet forbudt at have
+damer om bord; men besøg hos prostituerede, når
+man er i land, findes da stadig.
+Mads fortæller her en historie om en tur i land i
+Busan i Sydkorea: ”En tur i land blev det også til, og
+da jeg var den eneste aspirant, der havde tid og lyst
+til det, smuttede jeg ind sammen med stewarden og
+stewardessen, 2 matroser, elektrikeren og
+motormanden, som alle sammen er filippinere. Og
+jeg fandt hurtigt ud af, at filippinere ikke er til at
+styre på 10 tønder land, når de først er kommet op i
+omdrejninger. Så vi kom hurtigt ind til Texas Street,
+som er… ja, lad os bare sige at den ikke ligefrem er dydigheden selv. Jeg følte ikke lige selv noget behov for at købe
+nogen… lad os kalde det ydelser, så stewardessen, elektrikeren (som ikke er til kvinder) og jeg morede os blot med at se
+de andre styrte rundt med dollarsedlerne siddende meget løst.
+Jeg havde dog en lidt ubehagelig situation på et tidspunkt, for lige pludselig stod der en kampvogn af en russisk kvinde
+foran mig, ca. 2 meter høj, og lige så bredskuldret som Arnold Schwarzenegger, og som så absolut mente, og jeg skulle
+gå på hotel med hende, og var meget insisterende i sin sag. Jeg fik heldigvis snoet mig udenom ved at pege i den ene
+retning og se overrasket ud, hvorefter jeg smuttede den anden vej, mens hun kiggede. Det var sgu en skræmmende
+oplevelse, men også meget sjovt bagefter.”.
+Søfolkene arbejder det meste af tiden, når de er ude at sejle, men der er da også lidt tid til et socialt liv. Det sociale live
+foregår mest om aftenen, hvor søfolkene ser film og sidder og snakker. Og når man så kommer i havn, går man måske
+på en cafe eller på opdagelse. Der er altså muligheder for at opleve store dele af verdenen og møde andre kulturer.
+Sømandskirken159 og Handelsflådens Velfærdsråd160 er to organer, som
+tager initiativ til forskellige aktiviteter i forhold til søfolkenes sociale liv:
+”Sømandskirken er ikke i alle havnebyer, men så kan man altid gå til en
+norsk eller svensk sømandskirke. Sømandskirken er en god guide at have,
+når man er i en by, man ikke kender, for så ved de altid hvad der er værd
+at se, og hvad for nogle områder af byen, man ikke skal gå i, så vi bruger
+det meget. Søfartens velfærdtjeneste sender bøger og film ud til skibene og
+sørger for, at der ligger aviser, så vi får danske aviser om bord. De
+optager også, hvad der har været af dokumentarfilm og sådan i fjernsynet
+og sender ud. Vi får også nyheder fra Danmark på e-mail, og det er et af
+dagens højde-punkter, når man kan læse, hvad der er sket herhjemme. Så
+er man ikke helt overrasket, når man kommer hjem over, hvad der er sket”.
+
+159
+
+Sømandskirke er en kirke, der betjener søfolk på deres eget sprog i udenlandske havne.
+Handelsflådens Velfærdsråd er en privat, selvejende institution, der er oprettet i 1948. Den skal varetage og
+fremme initiativer vedrørende søfolks velfærd. Aktiviteterne omfatter bl.a. idræts- og undervisningstilbud,
+nyhedsformidling, film og bøger.
+160
+
+48
+
