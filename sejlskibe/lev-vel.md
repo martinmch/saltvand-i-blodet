@@ -1,3 +1,5 @@
+## Lev vel
+
 ”Efterårsdage blev vi aldrig vasket i søen. Heller ikke om vinteren. Det var alt for koldt at tage noget tøj af og stå der
 og vaske sig. Det kunne man ikke. Sommerdage der på Østersøen kunne vi jo tage udenbordsvand.”
 Hverdagen på et sejlskib kunne være hård. Arbejdet var krævende, og de
