@@ -35,10 +35,10 @@ stor bøde eller i værste fald gå i fængsel.
 > havde fået 15 kr. i forskud til en ny halmmadras. Så lagde jeg resten af
 > pengene på madrassen og til ham den anden dreng, der var om bord, sagde jeg:
 > "Nu ka' du give ham dem der og sige jeg er gået!" Så var jeg jo
-> rømningsmand. – Men så kom der jo bud fra Sø- og
+> rømningsmand. --- Men så kom der jo bud fra Sø- og
 > Handelsretten[^handelsretten], at jeg var rømningsmand og jeg skulle
 > straffes. Og så fik jeg en bøde på 12 kroner, og ham det frække bæst der i
-> Holmensgade[^Holmensgade] 1. udskrivningskreds han mente jo, jeg var et
+> Holmensgade[^holmensgade] 1. udskrivningskreds han mente jo, jeg var et
 > forfærdeligt menneske, at jeg sådan kunne rømme fra skibet. Han skrev ned i
 > min søfartsbog, at jeg rømte. Så tænkte jeg: "Tak skal du ha', nu får du
 > aldrig nogen hyre mere!" Nej, jeg var en storforbryder!".
@@ -79,7 +79,7 @@ at låne lidt penge til en kammerat var der ikke noget i vejen for.
 
 > "Hvis der var noget man kunne hjælpe med gjorde man det. Jeg har da f.eks.
 > vasket tøj for en og syet og stoppet for en anden – en svensker, og jeg blev
-> selv engang hjulpet med nogle rubler oppe i Skt. Petersborg[^Petersborg],
+> selv engang hjulpet med nogle rubler oppe i Skt. Petersborg[^petersborg],
 > dengang kunne jeg ikke få noget hos skipperen. Der var en der gav mig lidt.
 > Han tænkte det var synd, at jeg ikke skulle have en ting med hjem til mine
 > forældre. Man kunne købe de her æg med mange små inden i og tobaksdåser. Det
@@ -106,15 +106,11 @@ slagsmål, helst overvåget af andre af besætningen. Når kampen var slut, skul
 de to kamphaner være gode venner igen. Der var ikke plads til langvarigt had
 på et sejlskib, fordi man var meget afhængige af hinanden.
 
-[^Handelsretten]:
-Sø- og handelsretten er domstol for sager, der har med skibe at gøre.
-[^Holmensgade]:
-Holmensgade er en gade i København.
-[^riggen]:
-Riggen er alt det, der sidder på masterne.
-[^provianten]:
-Proviant er maden om bord.
-[^Petersborg]:
-Skt. Petersborg er en by i Rusland.
-[^skibskiste]:
-Skibskiste er en kiste til opbevaring af private ejendele som tøj mm.
+[^handelsretten]: Sø- og handelsretten er domstol for sager, der har med skibe
+  at gøre.
+[^holmensgade]: Holmensgade er en gade i København.
+[^riggen]: Riggen er alt det, der sidder på masterne.
+[^provianten]: Proviant er maden om bord.
+[^petersborg]: Skt. Petersborg er en by i Rusland.
+[^skibskiste]: Skibskiste er en kiste til opbevaring af private ejendele som
+  tøj mm.
