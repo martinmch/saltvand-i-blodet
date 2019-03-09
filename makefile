@@ -1,7 +1,8 @@
 SOURCES=$(wildcard **/*.md)
 
-saltvand-i-blodet-build.pdf: $(SOURCES)
+saltvand-i-blodet-build.pdf: $(SOURCES) abstract.md
 	pandoc --template=pdf-template.latex -o $@ \
+		abstract.md \
 		sejlskibe/introduktion.md \
 		sejlskibe/livet-paa-land.md \
 		sejlskibe/far-vel.md \

@@ -1,10 +1,7 @@
 \documentclass[]{book}
-\IfFileExists{microtype.sty}{%
 \usepackage{microtype}
 \usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
 \usepackage{natbib}
-\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
-\addbibresource{$bibliography$}
 \usepackage{longtable,booktabs}
 \usepackage{graphicx,grffile}
 \makeatletter
@@ -18,7 +15,7 @@
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{$if(secnumdepth)$$secnumdepth$$else$5$endif$}
+\setcounter{secnumdepth}{1}
 
 \title{Saltvand i Blodet}
 \author{Tanja Millinge}
@@ -26,8 +23,6 @@
 
 \begin{document}
 \maketitle
-\begin{abstract}
-\end{abstract}
 
 \tableofcontents
 
