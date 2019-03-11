@@ -1,5 +1,10 @@
 SOURCES=$(wildcard **/*.md)
 
+all: saltvand-i-blodet-build.pdf footnotes
+
+footnotes: $(SOURCES)
+	cat $^ | grep -o '^\[^.*\]' > footnotes
+
 saltvand-i-blodet-build.pdf: $(SOURCES) abstract.md pdf-template.latex
 	pandoc --template=pdf-template.latex -o $@ \
 		abstract.md \
