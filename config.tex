@@ -1,0 +1,15 @@
+\setcounter{secnumdepth}{1}
+\usepackage{nameref}
+\counterwithout*{footnote}{chapter}
+
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+
+%   Generate the environment for the abstract:
+\newcommand\summaryname{Abstract}
+\newenvironment{Abstract}%
+    {\small\begin{center}%
+    \bfseries{\summaryname} \end{center}}
+
+\newcommand{\word}[1]{\textbf{#1}}
+\newcommand{\wordd}[2]{\word{#1}\footnote{#2}}
