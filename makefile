@@ -1,11 +1,6 @@
 SOURCES=$(wildcard **/*.tex)
 
-all: saltvand-i-blodet-build.pdf footnotes
+all: main.pdf
 
-footnotes: $(SOURCES)
-	cat $^ | grep -o '^\[^.*\]' > footnotes
-
-
-saltvand-i-blodet-build.pdf: $(SOURCES) abstract.tex main.tex
+main.pdf: $(SOURCES) abstract.tex main.tex
 	pdflatex main.tex
-	mv main.tex saltvand-i-blodet-build.pdf
