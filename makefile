@@ -5,7 +5,9 @@ all: saltvand-i-blodet-build.pdf footnotes
 footnotes: $(SOURCES)
 	cat $^ | grep -o '^\[^.*\]' > footnotes
 
-
-saltvand-i-blodet-build.pdf: $(SOURCES) abstract.tex main.tex
+main.toc:
 	pdflatex main.tex
-	mv main.tex saltvand-i-blodet-build.pdf
+
+saltvand-i-blodet-build.pdf: $(SOURCES) abstract.tex main.tex main.toc
+	pdflatex main.tex
+	mv main.pdf saltvand-i-blodet-build.pdf
